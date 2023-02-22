@@ -9,7 +9,7 @@ I'm an experienced full-stack Developer with a core focus on backend application
 - 🎯 Skilled in Data Structures and Algorithms, Object Oriented Design, Enterprise Software Design, Web Design and User Experience Engineering, Big Data and Indexing, Network Structures and Cloud Computing, Design Patterns
 
 
-### Happy to connect with you on:
+### Happy to connect on:
 
 <p>
   <a href="mailto:saichandghanta161@gmail.com?subject=[GitHub]%20Contact&body=Hello,"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
