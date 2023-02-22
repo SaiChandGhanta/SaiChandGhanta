@@ -2,14 +2,16 @@
 
 I'm an experienced full-stack Developer with a core focus on backend application development. I enjoy coding and love to build high performant scalable software systems. 
 
-#### 🤔 Actively looking for full-time Software Engineer roles starting May 2023
+### 🤔 Actively looking for full-time Software Engineer roles starting May 2023
 
-- 🔭 I’m currently pursuing MS in Software Engineering Systems at Northeastern University, Boston and will be graduating in April 2023
-- 🥇 AWS Certified Developer Associate (DVA-C01), 2023
-- 🎯 Skilled in Data Structures and Algorithms, Object Oriented Design, Enterprise Software Design, Web Design and User Experience Engineering, Big Data and Indexing, Network Structures and Cloud Computing, Design Patterns
+🔭 I’m currently pursuing MS in Software Engineering Systems at Northeastern University, Boston and will be graduating in April 2023
+<br />
+🥇 AWS Certified Developer Associate (DVA-C01), 2023
+<br />
+🎯 Skilled in Data Structures and Algorithms, Object Oriented Design, Enterprise Software Design, Web Design and User Experience Engineering, Big Data and Indexing, Network Structures and Cloud Computing, Design Patterns
 
 
-### Happy to connect on:
+## Happy to connect on:
 
 <p>
   <a href="mailto:saichandghanta161@gmail.com?subject=[GitHub]%20Contact&body=Hello,"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
@@ -17,7 +19,7 @@ I'm an experienced full-stack Developer with a core focus on backend application
   <a href="https://www.linkedin.com/in/sai-chand-ghanta/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-### Languages and Tools:
+## Languages and Tools:
 
 <p>
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -37,8 +39,11 @@ I'm an experienced full-stack Developer with a core focus on backend application
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+## Projects
+
 | 💻 **Technology** | 🚀 **Projects**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --------- | --------------- |
 | ![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=52C0F2&logo=AmazonAWS&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?&color=52C0F2&logo=openjdk&logoColor=white)  ![Springboot](https://img.shields.io/static/v1?label=&message=SpringBoot&color=52C0F2&logo=spring&logoColor=white)   | [![1-user-file-hosting-webapp](https://img.shields.io/static/v1?label=&message=webapp&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/SaiChandGhanta/1-user-file-hosting-webapp) [![2-user-file-hosting-infrastucture](https://img.shields.io/static/v1?label=&message=infrastucture&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/SaiChandGhanta/2-user-file-hosting-infrastructure) [![3-user-file-hosting-serverless](https://img.shields.io/static/v1?label=&message=serverless&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/SaiChandGhanta/3-user-file-hosting-serverless) |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?&color=52C0F2&logo=openjdk&logoColor=white) ![Springboot](https://img.shields.io/static/v1?label=&message=SpringBoot&color=52C0F2&logo=spring&logoColor=white) ![redis](https://img.shields.io/static/v1?label=&message=redis&color=52C0F2&logo=redis&logoColor=white) ![rabbitmq](https://img.shields.io/static/v1?label=&message=rabbitmq&color=52C0F2&logo=rabbitmq&logoColor=white) ![elastic](https://img.shields.io/static/v1?label=&message=elasticsearch&color=52C0F2&logo=elasticsearch&logoColor=white)    | [![medical](https://img.shields.io/static/v1?label=&message=medical-insurance-plans&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/SaiChandGhanta/medical-insurance-plans) |
 
+## [All repos](https://github.com/SaiChandGhanta?tab=repositories)
