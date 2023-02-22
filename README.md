@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an experienced full-stack Developer with a core focus on web application development. I enjoy coding and love to build high performant scalable software systems. 
+I'm an experienced full-stack Developer with a core focus on backend application development. I enjoy coding and love to build high performant scalable software systems. 
 
 #### 🤔 Actively looking for full-time Software Engineer roles starting May 2023
 
